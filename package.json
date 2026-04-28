@@ -1,13 +1,13 @@
 {
-  "name": "doks",
-  "version": "1.9.1",
+  "name": "gnav_blog",
+  "version": "1.0.0",
   "type": "module",
-  "description": "Doks theme",
-  "author": "Thulite",
+  "description": "Gnav's Blog",
+  "author": "Gnav",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thuliteio/doks.git"
+    "url": "https://github.com/gnavdev28/gnav_blog.git"
   },
   "scripts": {
     "create": "hugo new",

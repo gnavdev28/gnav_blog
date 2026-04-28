@@ -1,4 +1,4 @@
-title = "My Docs"
+title = "Gnav's Blog"
 baseurl = "https://gnavdev28.github.io/gnav_blog/"
 canonifyURLs = true
 relativeURLs = false
@@ -17,7 +17,7 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2026 Thulite"
+copyRight = "Copyright (c) 2024-2026 Gnav"
 
 [build.buildStats]
   enable = true
